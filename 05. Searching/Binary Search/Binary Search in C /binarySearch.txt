@@ -1,0 +1,26 @@
+
+# Contributed by Sumedh Suralkar
+# Github - @sumedhx
+
+# What is Binary Search
+
+    Binary Search is a Searching algorithm used in a sorted array 
+    by repeatedly dividing the search interval in half.
+
+    • It as O(log N) Time Complexit.
+    • The data structure must be sorted.
+    • Access to any element of the data structure takes constant time.
+
+# Problem Statement 
+    • You have been given a sorted array of integers and target.
+    • You have to find the index of the target element.
+
+    #Test Case
+    • Input -- [ 2, 3, 4, 10, 40 ]
+    • Target -- 10
+    • Output -- Index of Target Element
+
+# Note 
+    • binarySearch.dSYM is a file created by VS Code.
+    • binarySearch.c is Source file.
+    • File named "binarySearch" is compiled program.
